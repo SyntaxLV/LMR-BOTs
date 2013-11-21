@@ -35,6 +35,6 @@ var scriptFail = window.setTimeout(function() {
   }, 2000);
 
  
-$.getScript(path + 'rM15aY1b' , function() {API.chatLog("LMRB Ieslēgts",true);
+$.getScript(path + 'L2ncmf3D' , function() {API.chatLog("LMRB Ieslēgts",true);
   window.clearTimeout(scriptFail);
 });
